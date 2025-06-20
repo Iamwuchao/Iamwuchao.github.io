@@ -26,9 +26,9 @@ FNW loss是先把样本当做负样本训练，等正向行为产生之后再用
 
 针对loss加权问题的FNW loss的推导：
 
-![](https://dcnwjvhick8m.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDUxNjE2NmY2NWNhNDEyNDgzYTNmMTM2OTJiZmJjOTdfR3BabzRnSzI0b2tOM09WYWpHczFkWER1M3preXJSVTRfVG9rZW46Q3hTdGJacVNDb3B1d1h4eU9TYmN5SkcwbkZjXzE3NTAzMzQ5NjM6MTc1MDMzODU2M19WNA)
+![](./picture/online_learning/loss_function_p1.PNG)
 
-![](https://dcnwjvhick8m.feishu.cn/space/api/box/stream/download/asynccode/?code=ZWNhZTc1ZTI1Y2NiMGIzY2IyYzhmNWJjZDYwYWVjOTZfVnVTMlIxQUVRMGR4NW9QRjZ5elY2YzhnMGtPMk9ZNnFfVG9rZW46WmdmV2JUTEZCb0JnY2p4YkowZGMwUXNobjZjXzE3NTAzMzQ5NjM6MTc1MDMzODU2M19WNA)
+![](./picture/online_learning/loss_function_p2.PNG)
 
 针对多个目标正样本反馈时间不同的问题：
 
